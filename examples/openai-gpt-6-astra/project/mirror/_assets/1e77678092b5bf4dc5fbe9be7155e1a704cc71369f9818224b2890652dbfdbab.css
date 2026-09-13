@@ -1,0 +1,1 @@
+@keyframes business-data-prompt-enter{0%{opacity:0;translate:0 8px}to{opacity:1;translate:0}}@keyframes business-data-prompt-press{0%,to{scale:1}45%{background-color:color-mix(in srgb, var(--color-secondary-100) 96.5%, var(--color-primary-100));scale:.98;box-shadow:0 2px 6px #0000000a,0 6px 18px #00000014}}

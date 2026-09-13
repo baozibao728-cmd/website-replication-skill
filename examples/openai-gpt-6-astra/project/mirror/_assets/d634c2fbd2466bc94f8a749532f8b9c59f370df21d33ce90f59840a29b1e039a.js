@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,334124,e=>{"use strict";let t=Promise;t.withResolvers||Object.defineProperty(t,"withResolvers",{configurable:!0,writable:!0,value:()=>{let e,t;return{promise:new Promise((i,o)=>{e=i,t=o}),resolve:e,reject:t}}}),e.s([])},248334,function(e){e.n(e.i(334124))}]);

@@ -1,0 +1,9 @@
+{
+  "name": "astra-local-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runnable local mirror of the OpenAI Astra page",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.cjs" }
+}
