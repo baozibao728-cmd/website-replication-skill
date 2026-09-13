@@ -1,0 +1,13 @@
+{
+  "name": "replicating-frontend-websites",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Capture, archive and verify a bounded website frontend mirror.",
+  "type": "commonjs",
+  "engines": {"node": ">=20"},
+  "scripts": {
+    "test": "node --test",
+    "doctor": "node scripts/doctor.js"
+  },
+  "dependencies": {"playwright": "1.60.0"}
+}
